@@ -47,7 +47,7 @@ python --version
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Password-Generator.git
+   git clone https://github.com/rifazislam1/Password-Generator.git
    ```
 
 2. Navigate to the project directory:
